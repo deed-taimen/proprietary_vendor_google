@@ -81,6 +81,7 @@ PRODUCT_PACKAGES += \
     WfcActivation \
     obdm_stub \
     qcrilmsgtunnel \
+    QtiTelephonyService \
     VerizonUnifiedSettings \
     cneapiclient \
     com.google.android.camera.experimental2017 \
